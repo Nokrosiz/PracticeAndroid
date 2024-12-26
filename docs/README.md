@@ -6,3 +6,4 @@
 - [Обзор](usage/overview.md)
 - [Установка](usage/installation.md)
 - [Функционал](features/navigation.md)
+- [Изображение](features/images.md)
